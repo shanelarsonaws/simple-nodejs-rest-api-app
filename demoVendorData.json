@@ -1,0 +1,33 @@
+[
+  {
+    "email": "admin@gov123.com",
+    "name": "Gov 1-2-3 LLC",
+    "codes": [
+      123456,
+      132456
+    ]
+  },
+  {
+    "email": "george@eastplacements.com",
+    "name": "East Placements Inc",
+    "codes": [
+      123456,
+      841254
+    ]
+  },
+  {
+    "email": "contracts@rhymesgalore.com",
+    "name": "Rhymes Galore Inc",
+    "codes": [
+      132456
+    ]
+  },
+  {
+    "email": "dimitri@govlandia.com",
+    "name": "Govlandia LLC",
+    "codes": [
+      841254,
+      123456
+    ]
+  }
+]
