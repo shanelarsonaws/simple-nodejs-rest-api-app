@@ -15,4 +15,4 @@ Simple Node.js Rest API Demo Application
       - Open mongodbConfig.js in the project's root folder and set your mongodb connection string
       - Type "npm run installDemoData"
       - Type "npm start"
-      - Start testing with your favorite REST API tester
+      - Start testing with your favorite REST API tester at http://localhost:8080/
